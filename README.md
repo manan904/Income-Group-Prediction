@@ -1,7 +1,7 @@
 # Income-Group-Prediction
 Predicting income group of people using Machine Learning and Data Analytics.
 
-Accuracy: 90% on Training Data
+Accuracy:<br> 90% on Training Data<br>
           80% on Testing Data
 
 
